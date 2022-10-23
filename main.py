@@ -84,7 +84,7 @@ class controller:
 
 
 # add tesseract to path
-pytesseract.pytesseract.tesseract_cmd = r'C:\Users\walke\AppData\Local\Tesseract-OCR\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = r'C:\Users\xxxxxx\AppData\Local\Tesseract-OCR\tesseract.exe'
 
 print('Starting...')
 control = controller()
